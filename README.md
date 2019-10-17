@@ -1,2 +1,5 @@
 # hello-world
-Learn
+
+Hello!
+
+I'm here to learn how to code and improve myself. 
